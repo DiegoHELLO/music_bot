@@ -1,0 +1,3 @@
+token=OTI5NTQ4NDUwMjQzMTY2MjQ5.G9uskF.AgGjaC47HLqAuBA2OnYRfindj_kugtIykhmSv4
+owner=74410900574345637
+prefix = "!!"
